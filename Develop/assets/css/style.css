@@ -21,8 +21,9 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #a0a1a0;
 }
+/*separate class .seo for multi-color header*/
 
 .header div {
     padding-top: 15px;
@@ -178,23 +179,18 @@ p {
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+/*footer*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
